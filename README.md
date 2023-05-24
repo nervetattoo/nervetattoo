@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nervetattoo, a senior full stack dev just turned independent contractor
-- 👀 I’m currently open for project work
+- 👋 Hi, I’m @nervetattoo, a senior full stack dev
+- 👀 I’m currently building something new
 - 🌱 I’m learning [EdgeDB](https://github.com/edgedb/) and diving deeper into TypeScript
 - 📫 How to reach me [raymond.julin@gmail.com](mailto:raymond.julin@gmail.com) or [Twitter](https://twitter.com/nervetattoo)
 
